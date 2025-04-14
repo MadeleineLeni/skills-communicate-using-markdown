@@ -2,3 +2,7 @@
 #### This is an h4 header, which is smaler. 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
